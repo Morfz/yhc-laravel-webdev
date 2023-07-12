@@ -56,4 +56,5 @@ Server pengembangan akan dijalankan dan Anda dapat mengakses aplikasi Laravel me
 <h4>
   Aplikasi ini menggunakan Laravel sebagai Backend Framework, Tailwind sebagai CSS Framework, dan MySQL<br>
 </h4>
-![Logo OpenAI](public/img/ss1.png)
+![ss1](https://github.com/Morfz/yhc-laravel-webdev/assets/100391684/13849c0b-795d-4df2-80b5-a023e785ad9d)
+
