@@ -14,12 +14,16 @@ Email : mhdmajdi2108@gmail.com
 2. Buka repositori proyek Laravel di GitHub yang ingin Anda jalankan oleh orang lain. Salin URL repositori.
 3. Di terminal atau command prompt, jalankan perintah berikut untuk mengklon repositori ke komputer Anda:
 
-<pre><code class="language-bash">git clone &lt;URL_REPOSITORY&gt;</code></pre>
+<pre><code class="language-bash">git clone &lt;![Screenshot 2023-07-13 072403](https://github.com/Morfz/yhc-laravel-webdev/assets/100391684/77cef9d4-278f-4f5b-965e-952d9c563a65)
+![Uploading Screenshot 2023-07-13 072347.png…]()
+URL_REPOSITORY&gt;</code></pre>
 
 4. Gantilah <URL_REPOSITORY> dengan URL repositori yang Anda salin sebelumnya. Perintah ini akan mengunduh repositori ke komputer Anda.
 5. Setelah repositori berhasil diklon, masuk ke direktori proyek Laravel dengan menjalankan perintah berikut:
 
-<pre><code class="language-bash">cd &lt;NAMA_DIREKTORI&gt;</code></pre>
+<pre><code class="language-bash"![Screenshot 2023-07-13 072403](https://github.com/Morfz/yhc-laravel-webdev/assets/100391684/7cd7f016-62b5-43e3-b9c0-5649cb979303)
+![Uploading Screenshot 2023-07-13 072347.png…]()
+>cd &lt;NAMA_DIREKTORI&gt;</code></pre>
 
 6. Gantilah <NAMA_DIREKTORI> dengan nama direktori proyek yang telah diunduh.
 7. Selanjutnya, jalankan perintah berikut untuk menginstal dependensi proyek Laravel:
@@ -55,4 +59,14 @@ Server pengembangan akan dijalankan dan Anda dapat mengakses aplikasi Laravel me
 <br>email : admin@gmail.com
 <br>password : 12345678
 
+<h2> Preview </h2>
 
+<h4>
+  Aplikasi ini menggunakan Laravel sebagai Backend Framework, Tailwind sebagai CSS Framework, dan MySQL<br>
+</h4>
+
+![welcome](https://github.com/Morfz/yhc-laravel-webdev/assets/100391684/8e9bb8d7-3064-4f72-9076-c5b551b87106)
+![login](https://github.com/Morfz/yhc-laravel-webdev/assets/100391684/3209d05e-46ab-4ec6-99e9-92167483a4ce)
+![halaman-beranda](https://github.com/Morfz/yhc-laravel-webdev/assets/100391684/069401de-3e34-468b-8401-e55f5d335d8b)
+![halaman-kursus](https://github.com/Morfz/yhc-laravel-webdev/assets/100391684/4c563dae-8d39-4ddd-a49d-60a47caff9be)
+![halaman-detail-kursus](https://github.com/Morfz/yhc-laravel-webdev/assets/100391684/2e635cdb-7f0b-4174-b58e-3235fbccb687)
