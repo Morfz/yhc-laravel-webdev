@@ -51,6 +51,10 @@ Email : mhdmajdi2108@gmail.com
 
 Server pengembangan akan dijalankan dan Anda dapat mengakses aplikasi Laravel melalui browser dengan alamat http://localhost:8000 atau sesuai dengan yang ditampilkan di terminal.
 
+<h2> Login Admin </h2>
+<br>email : admin@gmail.com
+<br>password : 12345678
+
 <h2> Preview </h2>
 
 <h4>
