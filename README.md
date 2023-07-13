@@ -14,42 +14,36 @@ Email : mhdmajdi2108@gmail.com
 2. Buka repositori proyek Laravel di GitHub yang ingin Anda jalankan oleh orang lain. Salin URL repositori.
 3. Di terminal atau command prompt, jalankan perintah berikut untuk mengklon repositori ke komputer Anda:
 
-<pre><code class="language-bash">git clone &lt;![Screenshot 2023-07-13 072403](https://github.com/Morfz/yhc-laravel-webdev/assets/100391684/77cef9d4-278f-4f5b-965e-952d9c563a65)
-![Uploading Screenshot 2023-07-13 072347.png…]()
-URL_REPOSITORY&gt;</code></pre>
+<pre><code class="language-bash">git clone https://github.com/Morfz/yhc-laravel-webdev.git</code></pre>
 
-4. Gantilah <URL_REPOSITORY> dengan URL repositori yang Anda salin sebelumnya. Perintah ini akan mengunduh repositori ke komputer Anda.
-5. Setelah repositori berhasil diklon, masuk ke direktori proyek Laravel dengan menjalankan perintah berikut:
+4. Setelah repositori berhasil diklon, masuk ke direktori proyek Laravel dengan menjalankan perintah berikut:
 
-<pre><code class="language-bash"![Screenshot 2023-07-13 072403](https://github.com/Morfz/yhc-laravel-webdev/assets/100391684/7cd7f016-62b5-43e3-b9c0-5649cb979303)
-![Uploading Screenshot 2023-07-13 072347.png…]()
->cd &lt;NAMA_DIREKTORI&gt;</code></pre>
+<pre><code class="language-bash">cd yhc-laravel-webdev</code></pre>
 
-6. Gantilah <NAMA_DIREKTORI> dengan nama direktori proyek yang telah diunduh.
-7. Selanjutnya, jalankan perintah berikut untuk menginstal dependensi proyek Laravel:
+5. Selanjutnya, jalankan perintah berikut untuk menginstal dependensi proyek Laravel:
 
 <pre><code class="language-bash">composer install</code></pre>
 
-8. Perintah ini akan mengunduh dan menginstal semua dependensi yang diperlukan oleh proyek Laravel.
-9. Salin file .env.example dan ubah namanya menjadi .env:
+6. Perintah ini akan mengunduh dan menginstal semua dependensi yang diperlukan oleh proyek Laravel.
+7. Salin file .env.example dan ubah namanya menjadi .env:
 
 <pre><code class="language-bash">cp .env.example .env</code></pre>
 
-10. Kemudian, buka file .env dan konfigurasikan pengaturan database sesuai dengan lingkungan Anda (nama database, pengguna, kata sandi, dll.).
-11. Generate kunci aplikasi Laravel dengan menjalankan perintah berikut:
+8. Kemudian, buka file .env dan konfigurasikan pengaturan database sesuai dengan lingkungan Anda (nama database, pengguna, kata sandi, dll.).
+9. Generate kunci aplikasi Laravel dengan menjalankan perintah berikut:
 
 <pre><code class="language-bash">php artisan key:generate</code></pre>
 
-12. Perintah ini akan menghasilkan kunci unik yang diperlukan untuk menjalankan aplikasi Laravel.
-13. Buka localhost pada PHPMyAdmin
-14. Buat database baru dengan nama yhc_courses (case sensitive)
-15. Pada database tersebut, import file di project yang sudah di clone <b>( yhc_courses.sql )</b>
-16. Setelah itu, jalankan perintah migrasi untuk membuat tabel-tabel yang diperlukan di database:
+10. Perintah ini akan menghasilkan kunci unik yang diperlukan untuk menjalankan aplikasi Laravel.
+11. Buka localhost pada PHPMyAdmin
+12. Buat database baru dengan nama yhc_courses (case sensitive)
+13. Pada database tersebut, import file di project yang sudah di clone <b>( yhc_courses.sql )</b>
+14. Setelah itu, jalankan perintah migrasi untuk membuat tabel-tabel yang diperlukan di database:
 
 <pre><code class="language-bash">php artisan migrate</code></pre>
 
-17. Perintah ini akan menjalankan semua migrasi yang ditemukan di proyek Laravel.
-18. Terakhir, Anda dapat menjalankan server pengembangan Laravel dengan perintah:
+15. Perintah ini akan menjalankan semua migrasi yang ditemukan di proyek Laravel.
+16. Terakhir, Anda dapat menjalankan server pengembangan Laravel dengan perintah:
 
 <pre><code class="language-bash">php artisan serve</code></pre>
 
