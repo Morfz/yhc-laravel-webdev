@@ -56,4 +56,12 @@ Server pengembangan akan dijalankan dan Anda dapat mengakses aplikasi Laravel me
 <h4>
   Aplikasi ini menggunakan Laravel sebagai Backend Framework, Tailwind sebagai CSS Framework, dan MySQL<br>
 </h4>
-![Logo OpenAI](public/img/ss1.png)
+
+![welcome](https://github.com/Morfz/yhc-laravel-webdev/assets/100391684/13849c0b-795d-4df2-80b5-a023e785ad9d)
+![login](https://github.com/Morfz/yhc-laravel-webdev/assets/100391684/bc433a42-d644-412d-8155-6070a66d104b)
+![beranda](https://github.com/Morfz/yhc-laravel-webdev/assets/100391684/f07a865f-5645-4505-9b73-67670ac2b9ce)
+![kursus](https://github.com/Morfz/yhc-laravel-webdev/assets/100391684/1d22e297-be81-46cc-90bf-6d12be6254e6)
+![detail kursus](https://github.com/Morfz/yhc-laravel-webdev/assets/100391684/9af3d3c9-fc0f-46c4-8fdf-a00769159e35)
+![detail-kursus2](https://github.com/Morfz/yhc-laravel-webdev/assets/100391684/60d9c3db-0b62-4218-baa5-367503c461f5)
+
+
