@@ -60,7 +60,5 @@ Server pengembangan akan dijalankan dan Anda dapat mengakses aplikasi Laravel me
 </h4>
 
 ![welcome](https://github.com/Morfz/yhc-laravel-webdev/assets/100391684/8e9bb8d7-3064-4f72-9076-c5b551b87106)
-![login](https://github.com/Morfz/yhc-laravel-webdev/assets/100391684/3209d05e-46ab-4ec6-99e9-92167483a4ce)
-![halaman-beranda](https://github.com/Morfz/yhc-laravel-webdev/assets/100391684/069401de-3e34-468b-8401-e55f5d335d8b)
 ![halaman-kursus](https://github.com/Morfz/yhc-laravel-webdev/assets/100391684/4c563dae-8d39-4ddd-a49d-60a47caff9be)
 ![halaman-detail-kursus](https://github.com/Morfz/yhc-laravel-webdev/assets/100391684/2e635cdb-7f0b-4174-b58e-3235fbccb687)
